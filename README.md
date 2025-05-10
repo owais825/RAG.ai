@@ -59,4 +59,4 @@ A Streamlit-based AI assistant that allows users to upload a PDF document and as
 - Streamlit for rapid UI development
 
 📬 Contact
-For questions or suggestions, contact: npniranjan2001@gmail.com
+For questions or suggestions, contact: owais825@gmail.com
